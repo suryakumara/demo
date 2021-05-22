@@ -1,6 +1,7 @@
 {
   "posts": [
-    { "id": 1, "name": "I Made Surya Kumara", "email": "suryakumara32@gmail.com", "address": "Jalan Batu Intan 2B No. 58" }
+    { "id": 1, "name": "I Made Surya Kumara", "email": "suryakumara32@gmail.com", "address": "Jalan Batu Intan 2B No. 58" },
+     { "id": 2, "name": "I Made Surya Kumara", "email": "suryakumara32@gmail.com", "address": "Jalan Batu Intan 2B No. 58" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
