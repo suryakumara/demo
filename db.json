@@ -1,5 +1,4 @@
 {
-  "status" : 200,
   "posts": [
     { "id": 1, "name": "I Made Surya Kumara", "email": "suryakumara32@gmail.com", "address": "Jalan Batu Intan 2B No. 58" },
      { "id": 2, "name": "I Made Surya Kumara", "email": "suryakumara32@gmail.com", "address": "Jalan Batu Intan 2B No. 58" }
